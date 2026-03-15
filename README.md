@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Abhishek
 
-<!--
-**rajput999/rajput999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer at **Amazon**  
+🎓 Dual Degree (B.Tech + M.Tech) — Mechanical Engineering & Manufacturing Science, **IIT Kharagpur**  
+🚀 Backend Developer | AI Systems | Scalable Platforms
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💼 Currently working as **Software Engineer at Amazon**
+- 🧠 Strong in **Backend Development, System Design, and DSA**
+- ⚙️ Experienced with **Node.js, MongoDB, Docker, Microservices**
+- 🤖 Interested in **AI systems, automation, and scalable infrastructure**
+- 🧩 Competitive programmer on **Codeforces, LeetCode, CodeChef**
+
+---
+
+## 🚀 Tech Stack
+
+C++, JavaScript, Python, SQL | Node.js, Express.js, React.js | MongoDB, PostgreSQL  
+Docker, AWS, REST APIs, Microservices | Machine Learning, NLP
+⭐ *Always building scalable systems and learning new technologies.*
